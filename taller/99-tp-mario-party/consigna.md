@@ -25,7 +25,7 @@ La realización del juego, tendrá cuatro etapas con sus respectivas entregas:
 
 ## Mecánica del juego
 
-![Example](example.jpg)
+![Mario Party](mario-party.jpg)
 
 La mecánica del juego consiste en un tablero, el cual los jugadores pueden recorrer e interactuar, y al final de cada ronda los jugadores competirán en un minijuego.
 * Una partida debe contar como mínimo con 2 jugadores (y soportar más de 4)
